@@ -1,6 +1,5 @@
-# Decentralized News Service
+# Decentralized News Service (Block Magic Hackathon)
 Building a decentralized news service with Chainlink Functions and Hacker News API
-(Block Magic Hackathon)
 
 ## Tutorial: "Blockchain Masterclass for JavaScript Developers"
 https://functions.chain.link/playground/b44eba0d-4498-48c5-a675-81780fc6873e
